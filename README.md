@@ -10,11 +10,17 @@ Customer Service Chatbot for ARS *Version 1* - Demo
   
 🤖 Features:
 - Answer questions related to Programs and Locations of ARS
+  
 Try:
+
 👉 What programs do you offer?
+
 👉 I am suffering from Cannabis addiction; what program suits well for my condition?
+
 👉 Do you have an office in Boston?
+
 👉 Where is the inpatient rehab center located? Get me the address.
+
 👉 What kinds of treatments do you provide?
 
 📍 Further Improvements:
